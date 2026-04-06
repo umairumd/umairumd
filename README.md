@@ -1,15 +1,13 @@
-# Hi, I'm Umair 👋
+# Umair Umar
 
-I build systems for agencies — focused on automation, structure, and real-world workflows.
-
-Currently working on **AgencyOS**, an internal operations platform that handles client lifecycle, workflows, and team coordination.
+Building systems for agencies — focused on automation, workflows, and scalable internal tools.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Current Focus
 
 ### 🧠 AgencyOS
-A modular system for managing agency operations:
+A modular internal platform for managing agency operations.
 
 - Client onboarding & lifecycle  
 - Background job processing (async workflows)  
@@ -17,42 +15,48 @@ A modular system for managing agency operations:
 - AI-powered document generation  
 - Integrations (Google Drive, Notion)  
 
-👉 [View Repository](https://github.com/umairumd/agencyos-core)
+🔗 https://github.com/umairumd/agencyos-core
 
 ---
 
-## 🛠 Tech I Work With
+## 🧩 What I Work On
 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![Supabase](https://img.shields.io/badge/Supabase-green?logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
-![React Query](https://img.shields.io/badge/React_Query-red)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+- Designing system architecture for real-world workflows  
+- Building internal tools that replace manual operations  
+- Creating structured, scalable backend systems  
+- Exploring AI in practical business use-cases  
 
 ---
 
-## 📌 Featured Projects
+## ⚙️ Tech Stack
 
-- 🧠 [AgencyOS Core](https://github.com/umairumd/agencyos-core)  
-  Modular agency operations system with RBAC and job queue  
-
-- 🌐 [Inoma Digital Website](https://github.com/umairumd/inoma-next)  
-  Agency website built with Next.js  
-
-- ⚙️ Unimate  
-  Experimental project (automation / AI workflows)
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs,postgres,supabase,tailwind" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Selected Work
 
-![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=umairumd&show_icons=true&theme=default)
+### 🧠 AgencyOS Core  
+Modular agency operations system with RBAC, job queue, and workflow automation  
+→ https://github.com/umairumd/agencyos-core  
+
+### 🌐 Inoma Digital Website  
+Agency website built with Next.js  
+→ https://github.com/umairumd/inoma-next  
+
+### ⚙️ Unimate  
+Exploring automation and AI-driven workflows  
 
 ---
 
-## 🤝 Let's Connect
+## 📊 Activity
+
+![stats](https://github-readme-stats.vercel.app/api?username=umairumd&show_icons=true&theme=transparent)
+
+---
+
+## 🤝 Connect
 
 - LinkedIn: (add your link)
-- Email: (optional)
