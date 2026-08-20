@@ -1,60 +1,80 @@
-<!--  github.com/umairumd  -->
+<!--
+  Umair Umar — github.com/umairumd
+-->
 
 <table>
 <tr>
-<td valign="top" width="42%">
+<td valign="top" width="55%">
 
 ### umair umar
 
 **Founder by day. Engineer by night.**
 
-I run a digital agency and build the software
-that runs it. Seven years shipping real things
-for real clients — somewhere between business
-systems and backend engineering.
-
-<br/>
-
-**→ [inomadigital.com](https://inomadigital.com)**
-**→ [umair@inomadigital.com](mailto:umair@inomadigital.com)**
-
-</td>
-<td valign="top" width="58%">
+I run a digital agency and build the software that runs it.
+Seven years of shipping real things for real clients —
+somewhere between business and backend.
 
 ```
-umair@machine ───────────────────────────────
+umair@machine ~ $ whoami
+  role       →  Co-Founder, Inoma Digital
+  stack      →  Next.js · TypeScript · Supabase
+               Flutter · Firebase · PostgreSQL
+               Node.js · Express · MongoDB
+  currently  →  AgencyOS (production)
+               UniMate (wrapping up)
+  based      →  Okara, Pakistan
+  open to    →  Interesting problems
+```
 
-  Role .............. Co-Founder & Director
-  Company ........... Inoma Digital
-  Location .......... Okara, Pakistan
-  Entity (US) ....... Inoma LLC, Wyoming
+</td>
+<td valign="top" width="45%">
 
-─ Stack ──────────────────────────────────────
-
-  Languages ......... TypeScript, JavaScript,
-                      Python, Dart, Java
-  Frontend .......... Next.js, React, Flutter
-  Backend ........... Node.js, Express, Supabase
-  Database .......... PostgreSQL, Firestore,
-                      MongoDB, SQLite
-  Infra ............. Vercel, Hetzner, Firebase
-
-─ Currently Building ─────────────────────────
-
-  AgencyOS .......... Internal ops platform
-  UniMate ........... University timetable system
-
-─ Also ───────────────────────────────────────
-
-  Design ............ Illustrator, Photoshop,
-                      After Effects, Premiere
-  Marketing ......... Google Ads, Meta Ads, SEO
-  Automation ........ n8n, Zapier, Make
-
-─ Research ───────────────────────────────────
-
-  Publications ...... 2 peer-reviewed papers
-  Journal ........... IJBMSP, 2025
+```
+:::----===========---::::.......::::::---------
+------====++++====---::::......::::::-----------
+----======+++++====---::::...:::::::-----=-------
+--=======+++++++===---::::.::::::::----====------
+=+++++===++++++++===--::::::::::::----======-----
+*####*++=++++++++**##*+-:::::-:-:--:.:. .:  .=+==
+%%%%%%#*+++++++*%@@@@@@%#-                      -#
+@@@@@%%##***##%@@@@@@@*-                          
+@@@@@@@@@@@@@@@@@@@#-        ..:.                 
+@@@@@@@@@@@@@@@@@@+                               
+@@@@@@@@@@@@@@@@@+                                
+@@@@@@@@@@@@@@@%.                                 
+@@@@@@@@@@@@@@-                                   
+@@@@@@@@@@@@@#              :-======+***=-:       
+@@@@@@@@@@@@@#        :=+*##%@@@@@@@@@@@@@@%##+=: 
+@@@@@@@@@@@@@+       -*##%%@@@@@@@@@@@@@@@@@@%##*+
+@@@@@@@@@@@@@=      .+##%%@@@@@@@@@@@@@@@@@@@%###*
+@@@@@@@@@@@@@#      :+##%%@@@@@@@@@@@@@@@@@@@%###*
+@@@@@@@@@@@@@@=     .+#%%%%@@@@@@@@@@@@@@@@@@%%##*
+@@@@@@@@@@@@@@#     .+##%%%@@@@@@@@@@@@@@@@@@%###*
+@@@@@@@@@@@@@@@-   .+##%%%@@@@@@@@@@@@@@@@@@@%%#**
+@@@@@@@@@@@@@@@#   -####*+===-:::=%@@@@@@#+==+=-+*
+@@@@@@@@@@@@@@@*:  -#%%+---::.   -=#%@%#+:       :
+@@@@@@@@@@@@@#.:++..+#*==-.       :-%@%+:::.::-=--
+@@@@@@@@@@@@@*+%%*=**=-++-.=: .#--++*%@=-:-  .: :=
+@@@@@@@@@@@@@**+::+#%%%##*+=====+##=+@@#=++=++=-=*
+@@@@@@@@@@@@@%#**#*#%%%%%%%%%###%@%+@@@@+**++***#%
+@@@@@@@@@@@@@%***++#%#%%@@@@@@@@@%+@@@@@*+%@@@@@@%
+@@@@@@@@@@@@@@*##-=####%%%@@@@@%#+#%@@@@#+#%@@@@@%
+@@@@@@@@@@@@@@@##=:+###%%@@%###%#*@@@@@@%**%@%%%##
+@@@@@@@@@@@@@@@@#+..=*###%@@@%%%%####@@@#*##@@@@%#
+@@@@@@@@@@@@@@@@@@+.:-+**###*=*@@%-  :-: -#*#%%%#*
+@@@@@@@@@@@@@@@@@@*..:-=*##*+==-=:        -+++##*+
+@@@@@@@@@@@@@@@@@@%..:::=+##=   :=::::-.     =**+-
+@@@@@@@@@@@@@@@@@@@- .:::--=+-*=----....     =++:
+@@@@@@@@@@@@@@@@@@@+   ...:::+#%%##*###*+++=:--:..
+@@@@@@@@@@@@@@@@@@@@:        -**++=-:::-====:
+@@@@@@@@@@@@@@@@@@@@*        .-+++-     -=-:
+@@@@@@@@@@@@@@@@@@@@@-        -++*+--:.=+=.
+@@@@@@@@@@@@@@@@@@@@#+=        :.=====--.
+@@@@@@@@@@@@@@@@@@%#%*++-        ::.   .
+@@@@@@@@@@@@@@@@%=:#@%*+++-
+@@@@@@@@@@@@@@@=..=@@%*****+-
+@@@@@@@@%*=--::...+@@@#**#**++-.
+@%#+=-:     ....::*@@@%+*##***+=-::::::-----=--
 ```
 
 </td>
@@ -71,7 +91,7 @@ umair@machine ──────────────────────
 
 ---
 
-**UniMate** *(coming soon)* — University timetable system. Upload an Excel file, the system parses teacher, class, room, and time data into Firestore and pushes FCM notifications to students before each class. Flutter mobile + React admin + Firebase backend. 37k lines across three deployable surfaces.
+**UniMate** *(coming soon)* — University timetable system. Upload an Excel file, the system parses teacher/class/room data and pushes FCM notifications to students before each class. Flutter mobile + React admin + Firebase backend. 37k lines across three deployable surfaces.
 
 `Flutter` `React` `Firebase` `Cloud Functions` `TypeScript` `SQLite`
 
@@ -87,3 +107,8 @@ umair@machine ──────────────────────
 </p>
 
 ---
+
+## connect
+
+→ **[inomadigital.com](https://inomadigital.com)**
+→ **umair@inomadigital.com**
