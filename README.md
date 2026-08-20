@@ -1,62 +1,95 @@
-# Umair Umar
+<!--
+  Umair Umar — github.com/umairumd
+-->
 
-Building systems for agencies — focused on automation, workflows, and scalable internal tools.
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### umair umar
+
+**Founder by day. Engineer by night.**
+
+I run a digital agency and build the software that runs it.
+Seven years of shipping real things for real clients —
+somewhere between business and backend.
+
+```
+umair@machine ~ $ whoami
+  role       →  Co-Founder, Inoma Digital
+  stack      →  Next.js · TypeScript · Supabase
+               Flutter · Firebase · PostgreSQL
+               Node.js · Express · MongoDB
+  currently  →  AgencyOS (production)
+               UniMate (wrapping up)
+  based      →  Okara, Pakistan
+  open to    →  Interesting problems
+```
+
+</td>
+<td valign="top" width="45%">
+
+```
+            ..................          
+        ..........      ..........      
+      .....                    .....    
+   .....                          ..... 
+  ...                         ..     ...
+  .               .   .+***+:  . .     .
+                    .-########+.=.      
+  ..... ... ......=+*@####@@###*-       
+  ...............###@######@##@* .......
+  :---:::::::::::############@#@*.::.:.
+  =====--------=-=#@@######@@#@@*-------
+  ==+++==========+##*@#@@#@@#@#+========
+  +++***+++++++++##@-:=+#@@**#++++++**+*
+  *****#********=@##@*. .-: =*******####
+  #@########*#*-=#####@===:*#@@@####@@@@
+  ###@@#++=-::..-@#######*.+#@###@@#####
+  ###+====+-.-:-:+########::..:=#@######
+  ##********=.....=######=::::==*#@#####
+  *+=+=*+****+-:=*+=+##=:::.:-**#@@#####
+  ==--=++****#+=++*+==:-=++=+++####@###@
+  :.:-+++******+==++==+=====++*##*#@###.
+   ..:-==++***+++=++=-======++*##+*#@#-.
+    ...==-==+++=====-:-====+++*#*.-=:  .
+       ....:========:-======+++*:..     
+          .....:-==-::==-==-::..        
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Current Focus
+## what i've built
 
-### 🧠 AgencyOS
-A modular internal platform for managing agency operations.
+**[AgencyOS](https://github.com/umairumd/agencyos-core)** — Internal operations platform for Inoma Digital. Multi-workspace RBAC, AI proposals via Gemini, async job engine, Google Drive + Notion OAuth, encrypted credential vault. 91k+ lines. Sole engineer.
 
-- Client onboarding & lifecycle  
-- Background job processing (async workflows)  
-- Role-based access control (RBAC)  
-- AI-powered document generation  
-- Integrations (Google Drive, Notion)  
-
-🔗 https://github.com/umairumd/agencyos-core
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Gemini AI` `Vercel` `Hetzner`
 
 ---
 
-## 🧩 What I Work On
+**UniMate** *(coming soon)* — University timetable system. Upload an Excel file, the system parses teacher/class/room data and pushes FCM notifications to students before each class. Flutter mobile + React admin + Firebase backend. 37k lines across three deployable surfaces.
 
-- Designing system architecture for real-world workflows  
-- Building internal tools that replace manual operations  
-- Creating structured, scalable backend systems  
-- Exploring AI in practical business use-cases  
+`Flutter` `React` `Firebase` `Cloud Functions` `TypeScript` `SQLite`
 
 ---
 
-## ⚙️ Tech Stack
+## stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs,postgres,supabase,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,flutter,firebase,supabase,postgres,mongodb,python&theme=dark" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,git,github,vercel,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📌 Selected Work
+## connect
 
-### 🧠 AgencyOS Core  
-Modular agency operations system with RBAC, job queue, and workflow automation  
-→ https://github.com/umairumd/agencyos-core  
-
-### 🌐 Inoma Digital Website  
-Agency website built with Next.js  
-→ https://github.com/umairumd/inoma-next  
-
-### ⚙️ Unimate  
-Exploring automation and AI-driven workflows  
-
----
-
-## 📊 Activity
-
-![stats](https://github-readme-stats.vercel.app/api?username=umairumd&show_icons=true&theme=transparent)
-
----
-
-## 🤝 Connect
-
-- LinkedIn: (add your link)
+→ **[inomadigital.com](https://inomadigital.com)**
+→ **umair@inomadigital.com**
