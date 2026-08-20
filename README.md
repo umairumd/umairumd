@@ -1,60 +1,68 @@
-<!--
-  Umair Umar — github.com/umairumd
--->
+<!--  github.com/umairumd  -->
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="52%">
 
 ### umair umar
 
 **Founder by day. Engineer by night.**
 
-I run a digital agency and build the software that runs it.
-Seven years of shipping real things for real clients —
-somewhere between business and backend.
+I run a digital agency and build the software
+that runs it. Seven years shipping real things
+for real clients — somewhere between
+business systems and backend engineering.
 
 ```
-umair@machine ~ $ whoami
-  role       →  Co-Founder, Inoma Digital
-  stack      →  Next.js · TypeScript · Supabase
+umair@machine:~$ whoami
+  role      →  Co-Founder, Inoma Digital
+  location  →  Okara, Pakistan
+  stack     →  Next.js · TypeScript · Supabase
                Flutter · Firebase · PostgreSQL
                Node.js · Express · MongoDB
-  currently  →  AgencyOS (production)
-               UniMate (wrapping up)
-  based      →  Okara, Pakistan
-  open to    →  Interesting problems
+  building  →  AgencyOS · UniMate
+  open to   →  Interesting problems
 ```
+
+<br/>
+
+**→ [inomadigital.com](https://inomadigital.com)**
+**→ umair@inomadigital.com**
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="48%">
 
 ```
-            ..................          
-        ..........      ..........      
-      .....                    .....    
-   .....                          ..... 
-  ...                         ..     ...
-  .               .   .+***+:  . .     .
-                    .-########+.=.      
-  ..... ... ......=+*@####@@###*-       
-  ...............###@######@##@* .......
-  :---:::::::::::############@#@*.::.:.
-  =====--------=-=#@@######@@#@@*-------
-  ==+++==========+##*@#@@#@@#@#+========
-  +++***+++++++++##@-:=+#@@**#++++++**+*
-  *****#********=@##@*. .-: =*******####
-  #@########*#*-=#####@===:*#@@@####@@@@
-  ###@@#++=-::..-@#######*.+#@###@@#####
-  ###+====+-.-:-:+########::..:=#@######
-  ##********=.....=######=::::==*#@#####
-  *+=+=*+****+-:=*+=+##=:::.:-**#@@#####
-  ==--=++****#+=++*+==:-=++=+++####@###@
-  :.:-+++******+==++==+=====++*##*#@###.
-   ..:-==++***+++=++=-======++*##+*#@#-.
-    ...==-==+++=====-:-====+++*#*.-=:  .
-       ....:========:-======+++*:..     
-          .....:-==-::==-==-::..        
+...::::::::::::::::::......:.::....::::::::::::
+::::::::::::::::::.:..::. ............:::::::::
+::::::::::::::::-:..:...*@@@@@@@-.....:::::::::
+::::::::::::::::-=-..+@@@@@@@@@@@*-....--------
+-----::::---------#+@@@@@@@@@@@@@@#+=:.--------
+-------------------*@@@@@@%%@@@@@#*%*@@#-------
+-------------------+=%@@@@%@@@@@@@@@@@@@@------
+--==---=-===-=====@@@#@@@@@@@@@@@@@@@@@@@======
+=================*@@*@@@@@@@@@@@@@@@@@@@-======
+==================+@@@@@@@@@@@@@@@@@#@@%=======
++++++++++++++++++==++@@##@@**%@@@@@#*@@@+++++++
+****+++++++++++++++++%@:@@@@@@#+**+==@@@+++++++
+**********************#+#:+*#%=+::.:@@@@*****++
+##############*********#:-:=-:...-@@@@@@%:*****
+%%%%%%%%%%%%############*-:....:*@@@@@@@@=:*###
+%@@@@@@@@@@@@%%%%%%@@@@@%%=.%%#%@@@@@@@@@+-:-**
+@@@@@@@@@@@@@@@@@@@@@@@@%=..+@@@@@@@@@@@%-=-:--
+@@@@@@@@@@@@@@@@@@%=--:::--+*%@@@@@@@@@@-+====
+@@@@@@@@@@@@@@@@#+===-=-=+-=%@@@@@@@@@@=..:=-=
+@@@@@@@@@@@@@@@%%#**++=-:.+===#@@@@@@=:---.:::
+@@@@@@@@@@@@@@@@%%#*++==-=-::+==#@#=-++**+===+
+@@@@@@@@@@@@@@%%####*++++=++==-::-+++++*++==+*
+@@@@@@@@@@@@@@#*####+*+*+=+++++=+=*=+*++=++=**
+@@@@@@@@@@@@@%%**####+++*=++=*+=+++-*+++++++#*
+@@@@@@@@@@@@@%#*+####*+++++=+===++=+++*++++***
+@@@@@@@@@@@@#*++=###***++=+=+========++++*+*+*
+@@@@@@@@@@@#+*=--=%#****=+=++=++=-===+=+=*=*##
+@@@@@@@@@@@*===-::=#+++*+++++=++++===+=+=+=++*
+=+*#@@@@@@@#==--:::#+++++=+=+====+-=====++=+==
+@@@@@@@@@@@#=:::::.+*++==========+-=-===+=---:
 ```
 
 </td>
@@ -71,7 +79,7 @@ umair@machine ~ $ whoami
 
 ---
 
-**UniMate** *(coming soon)* — University timetable system. Upload an Excel file, the system parses teacher/class/room data and pushes FCM notifications to students before each class. Flutter mobile + React admin + Firebase backend. 37k lines across three deployable surfaces.
+**UniMate** *(coming soon)* — University timetable system. Upload an Excel file, the system parses teacher, class, room, and time data into Firestore and pushes FCM notifications to students before each class. Flutter mobile + React admin + Firebase backend. 37k lines across three deployable surfaces.
 
 `Flutter` `React` `Firebase` `Cloud Functions` `TypeScript` `SQLite`
 
@@ -80,16 +88,10 @@ umair@machine ~ $ whoami
 ## stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,flutter,firebase,supabase,postgres,mongodb,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,flutter,firebase,supabase,postgres,mongodb,python&theme=dark" />
 </p>
-
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,git,github,vercel,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,git,github,vercel,vscode&theme=dark" />
 </p>
 
 ---
-
-## connect
-
-→ **[inomadigital.com](https://inomadigital.com)**
-→ **umair@inomadigital.com**
