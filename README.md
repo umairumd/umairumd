@@ -1,114 +1,45 @@
-<!--
-  Umair Umar — github.com/umairumd
--->
+<div align="center">
 
-<table>
-<tr>
-<td valign="top" width="55%">
+# umair umar
 
-### umair umar
+*Founder by day. Engineer by night.*
 
-**Founder by day. Engineer by night.**
+I build the software that runs my agency —
+and ship client work with the same hands.
 
-I run a digital agency and build the software that runs it.
-Seven years of shipping real things for real clients —
-somewhere between business and backend.
+[![](https://img.shields.io/badge/inomadigital.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://inomadigital.com)
+[![](https://img.shields.io/badge/umair@inomadigital.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umair@inomadigital.com)
+[![](https://img.shields.io/badge/behance.net/inoma-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/inoma)
 
-```
-umair@machine ~ $ whoami
-  role       →  Co-Founder, Inoma Digital
-  stack      →  Next.js · TypeScript · Supabase
-               Flutter · Firebase · PostgreSQL
-               Node.js · Express · MongoDB
-  currently  →  AgencyOS (production)
-               UniMate (wrapping up)
-  based      →  Okara, Pakistan
-  open to    →  Interesting problems
-```
-
-</td>
-<td valign="top" width="45%">
-
-```
-:::----===========---::::.......::::::---------
-------====++++====---::::......::::::-----------
-----======+++++====---::::...:::::::-----=-------
---=======+++++++===---::::.::::::::----====------
-=+++++===++++++++===--::::::::::::----======-----
-*####*++=++++++++**##*+-:::::-:-:--:.:. .:  .=+==
-%%%%%%#*+++++++*%@@@@@@%#-                      -#
-@@@@@%%##***##%@@@@@@@*-                          
-@@@@@@@@@@@@@@@@@@@#-        ..:.                 
-@@@@@@@@@@@@@@@@@@+                               
-@@@@@@@@@@@@@@@@@+                                
-@@@@@@@@@@@@@@@%.                                 
-@@@@@@@@@@@@@@-                                   
-@@@@@@@@@@@@@#              :-======+***=-:       
-@@@@@@@@@@@@@#        :=+*##%@@@@@@@@@@@@@@%##+=: 
-@@@@@@@@@@@@@+       -*##%%@@@@@@@@@@@@@@@@@@%##*+
-@@@@@@@@@@@@@=      .+##%%@@@@@@@@@@@@@@@@@@@%###*
-@@@@@@@@@@@@@#      :+##%%@@@@@@@@@@@@@@@@@@@%###*
-@@@@@@@@@@@@@@=     .+#%%%%@@@@@@@@@@@@@@@@@@%%##*
-@@@@@@@@@@@@@@#     .+##%%%@@@@@@@@@@@@@@@@@@%###*
-@@@@@@@@@@@@@@@-   .+##%%%@@@@@@@@@@@@@@@@@@@%%#**
-@@@@@@@@@@@@@@@#   -####*+===-:::=%@@@@@@#+==+=-+*
-@@@@@@@@@@@@@@@*:  -#%%+---::.   -=#%@%#+:       :
-@@@@@@@@@@@@@#.:++..+#*==-.       :-%@%+:::.::-=--
-@@@@@@@@@@@@@*+%%*=**=-++-.=: .#--++*%@=-:-  .: :=
-@@@@@@@@@@@@@**+::+#%%%##*+=====+##=+@@#=++=++=-=*
-@@@@@@@@@@@@@%#**#*#%%%%%%%%%###%@%+@@@@+**++***#%
-@@@@@@@@@@@@@%***++#%#%%@@@@@@@@@%+@@@@@*+%@@@@@@%
-@@@@@@@@@@@@@@*##-=####%%%@@@@@%#+#%@@@@#+#%@@@@@%
-@@@@@@@@@@@@@@@##=:+###%%@@%###%#*@@@@@@%**%@%%%##
-@@@@@@@@@@@@@@@@#+..=*###%@@@%%%%####@@@#*##@@@@%#
-@@@@@@@@@@@@@@@@@@+.:-+**###*=*@@%-  :-: -#*#%%%#*
-@@@@@@@@@@@@@@@@@@*..:-=*##*+==-=:        -+++##*+
-@@@@@@@@@@@@@@@@@@%..:::=+##=   :=::::-.     =**+-
-@@@@@@@@@@@@@@@@@@@- .:::--=+-*=----....     =++:
-@@@@@@@@@@@@@@@@@@@+   ...:::+#%%##*###*+++=:--:..
-@@@@@@@@@@@@@@@@@@@@:        -**++=-:::-====:
-@@@@@@@@@@@@@@@@@@@@*        .-+++-     -=-:
-@@@@@@@@@@@@@@@@@@@@@-        -++*+--:.=+=.
-@@@@@@@@@@@@@@@@@@@@#+=        :.=====--.
-@@@@@@@@@@@@@@@@@@%#%*++-        ::.   .
-@@@@@@@@@@@@@@@@%=:#@%*+++-
-@@@@@@@@@@@@@@@=..=@@%*****+-
-@@@@@@@@%*=--::...+@@@#**#**++-.
-@%#+=-:     ....::*@@@%+*##***+=-::::::-----=--
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## what i've built
+### what i'm building
 
-**[AgencyOS](https://github.com/umairumd/agencyos-core)** — Internal operations platform for Inoma Digital. Multi-workspace RBAC, AI proposals via Gemini, async job engine, Google Drive + Notion OAuth, encrypted credential vault. 91k+ lines. Sole engineer.
+**[AgencyOS](https://github.com/umairumd/agencyos-core)** — Internal ops platform for a digital agency. RBAC, async jobs, AI proposals via Gemini, Google Drive + Notion sync, invoice management, encrypted credential vault. 91k+ lines. Built alone.
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Gemini AI` `Vercel` `Hetzner`
 
----
-
-**UniMate** *(coming soon)* — University timetable system. Upload an Excel file, the system parses teacher/class/room data and pushes FCM notifications to students before each class. Flutter mobile + React admin + Firebase backend. 37k lines across three deployable surfaces.
+**UniMate** *(coming soon)* — University timetable system. Excel upload → parse → Firestore → FCM push to students before each class. Flutter mobile + React admin + Firebase backend. One monorepo, three deployable surfaces.
 
 `Flutter` `React` `Firebase` `Cloud Functions` `TypeScript` `SQLite`
 
 ---
 
-## stack
+### stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,flutter,firebase,supabase,postgres,mongodb,python&theme=dark" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,git,github,vercel,vscode&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,flutter,firebase,supabase,postgres,mongodb&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=python,figma,ps,ai,pr,ae,git,github,vercel,vscode&theme=dark" />
 
 ---
 
-## connect
+### a bit about me
 
-→ **[inomadigital.com](https://inomadigital.com)**
-→ **umair@inomadigital.com**
+```
+location   →   Okara, Pakistan
+agency     →   Inoma Digital  (est. 2019)
+focus      →   building things that actually get used
+currently  →   shipping AgencyOS · preparing for MS abroad
+```
