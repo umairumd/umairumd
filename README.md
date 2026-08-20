@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top" width="52%">
+<td valign="top" width="42%">
 
 ### umair umar
 
@@ -10,59 +10,51 @@
 
 I run a digital agency and build the software
 that runs it. Seven years shipping real things
-for real clients — somewhere between
-business systems and backend engineering.
-
-```
-umair@machine:~$ whoami
-  role      →  Co-Founder, Inoma Digital
-  location  →  Okara, Pakistan
-  stack     →  Next.js · TypeScript · Supabase
-               Flutter · Firebase · PostgreSQL
-               Node.js · Express · MongoDB
-  building  →  AgencyOS · UniMate
-  open to   →  Interesting problems
-```
+for real clients — somewhere between business
+systems and backend engineering.
 
 <br/>
 
 **→ [inomadigital.com](https://inomadigital.com)**
-**→ umair@inomadigital.com**
+**→ [umair@inomadigital.com](mailto:umair@inomadigital.com)**
 
 </td>
-<td valign="top" width="48%">
+<td valign="top" width="58%">
 
 ```
-...::::::::::::::::::......:.::....::::::::::::
-::::::::::::::::::.:..::. ............:::::::::
-::::::::::::::::-:..:...*@@@@@@@-.....:::::::::
-::::::::::::::::-=-..+@@@@@@@@@@@*-....--------
------::::---------#+@@@@@@@@@@@@@@#+=:.--------
--------------------*@@@@@@%%@@@@@#*%*@@#-------
--------------------+=%@@@@%@@@@@@@@@@@@@@------
---==---=-===-=====@@@#@@@@@@@@@@@@@@@@@@@======
-=================*@@*@@@@@@@@@@@@@@@@@@@-======
-==================+@@@@@@@@@@@@@@@@@#@@%=======
-+++++++++++++++++==++@@##@@**%@@@@@#*@@@+++++++
-****+++++++++++++++++%@:@@@@@@#+**+==@@@+++++++
-**********************#+#:+*#%=+::.:@@@@*****++
-##############*********#:-:=-:...-@@@@@@%:*****
-%%%%%%%%%%%%############*-:....:*@@@@@@@@=:*###
-%@@@@@@@@@@@@%%%%%%@@@@@%%=.%%#%@@@@@@@@@+-:-**
-@@@@@@@@@@@@@@@@@@@@@@@@%=..+@@@@@@@@@@@%-=-:--
-@@@@@@@@@@@@@@@@@@%=--:::--+*%@@@@@@@@@@-+====
-@@@@@@@@@@@@@@@@#+===-=-=+-=%@@@@@@@@@@=..:=-=
-@@@@@@@@@@@@@@@%%#**++=-:.+===#@@@@@@=:---.:::
-@@@@@@@@@@@@@@@@%%#*++==-=-::+==#@#=-++**+===+
-@@@@@@@@@@@@@@%%####*++++=++==-::-+++++*++==+*
-@@@@@@@@@@@@@@#*####+*+*+=+++++=+=*=+*++=++=**
-@@@@@@@@@@@@@%%**####+++*=++=*+=+++-*+++++++#*
-@@@@@@@@@@@@@%#*+####*+++++=+===++=+++*++++***
-@@@@@@@@@@@@#*++=###***++=+=+========++++*+*+*
-@@@@@@@@@@@#+*=--=%#****=+=++=++=-===+=+=*=*##
-@@@@@@@@@@@*===-::=#+++*+++++=++++===+=+=+=++*
-=+*#@@@@@@@#==--:::#+++++=+=+====+-=====++=+==
-@@@@@@@@@@@#=:::::.+*++==========+-=-===+=---:
+umair@machine ───────────────────────────────
+
+  Role .............. Co-Founder & Director
+  Company ........... Inoma Digital
+  Location .......... Okara, Pakistan
+  Entity (US) ....... Inoma LLC, Wyoming
+
+─ Stack ──────────────────────────────────────
+
+  Languages ......... TypeScript, JavaScript,
+                      Python, Dart, Java
+  Frontend .......... Next.js, React, Flutter
+  Backend ........... Node.js, Express, Supabase
+  Database .......... PostgreSQL, Firestore,
+                      MongoDB, SQLite
+  Infra ............. Vercel, Hetzner, Firebase
+
+─ Currently Building ─────────────────────────
+
+  AgencyOS .......... Internal ops platform
+  UniMate ........... University timetable system
+
+─ Also ───────────────────────────────────────
+
+  Design ............ Illustrator, Photoshop,
+                      After Effects, Premiere
+  Marketing ......... Google Ads, Meta Ads, SEO
+  Automation ........ n8n, Zapier, Make
+
+─ Research ───────────────────────────────────
+
+  Publications ...... 2 peer-reviewed papers
+  Journal ........... IJBMSP, 2025
 ```
 
 </td>
