@@ -1,7 +1,8 @@
 <div align="center">
-
-![Umair Umar](banner.jpg)
-
+  <picture>
+    <source media="(max-width: 600px)" srcset="banner-mob.jpg">
+    <img src="banner.jpg" alt="Umair Umar" width="100%">
+  </picture>
 </div>
 
 ---
@@ -11,23 +12,16 @@ umair@machine ~ $ whoami
   role       →  Co-Founder & Director, Inoma Digital
   builds     →  production systems for real businesses
   stack      →  Next.js · TypeScript · Supabase · Flutter
-               Node.js · PostgreSQL · n8n · Gemini AI
+                Node.js · PostgreSQL · n8n · Gemini AI
   based      →  Okara, Pakistan
   web        →  inomadigital.com
   email      →  umair@inomadigital.com
   portfolio  →  behance.net/inoma
   open to    →  interesting problems
-```
 
-```
-umair@machine ~ $ git log --oneline --all
-
-  a1f9c12  AgencyOS      — operations platform for a digital agency
-  b72e401  UniMate       — university timetable and notification system
-  c91d3f8  edgepress     — headless WordPress website with image pipeline
-  d44a8b1  Dossier       — HR and team progress tracking platform
-  e55f2c9  Walton AI     — WhatsApp commerce bot with Shopify integration
-  f66g3d7  HireScout     — automated hiring pipeline powered by AI
+umair@machine ~ $ ls projects/
+  AgencyOS/   UniMate/    EdgePress/
+  Dossier/    WaltonAI/   HireScout/
 ```
 
 ---
@@ -46,7 +40,7 @@ umair@machine ~ $ git log --oneline --all
 
 ---
 
-**[edgepress](https://github.com/umairumd/edgepress)** — Production agency website with headless WordPress CMS. Portfolio images sliced server-side with Sharp and streamed progressively to the client. Full Yoast SEO pipeline into Next.js metadata. WordPress-driven redirects at the Edge.
+**[EdgePress](https://github.com/umairumd/edgepress)** — Production agency website with headless WordPress CMS. Portfolio images sliced server-side with Sharp and streamed progressively to the client. Full Yoast SEO pipeline into Next.js metadata. WordPress-driven redirects at the Edge.
 
 `Next.js` `TypeScript` `WordPress` `WPGraphQL` `Sharp` `Vercel`
 
@@ -58,7 +52,7 @@ umair@machine ~ $ git log --oneline --all
 
 ---
 
-**[Walton AI](https://github.com/umairumd/walton-ai)** — Multilingual WhatsApp AI commerce system. Handles product discovery, cart management, PDF quotations, order confirmation, and automatic Shopify sync. Responds in English, Roman Urdu, and Urdu.
+**[WaltonAI](https://github.com/umairumd/walton-ai)** — Multilingual WhatsApp AI commerce system. Handles product discovery, cart management, PDF quotations, order confirmation, and automatic Shopify sync. Responds in English, Roman Urdu, and Urdu.
 
 `n8n` `Gemini 2.5 Flash` `WAHA` `Supabase` `Shopify` `Hetzner`
 
